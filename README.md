@@ -1,4 +1,4 @@
-# IOS_p2
+# IOS-projekt-2
 ###FIT VUTBR, predmet IOS 2014/2015 druhý projekt, 
 ###Hodnotenie 14/15 (-1 za aplikáciu patch súboru)
 
